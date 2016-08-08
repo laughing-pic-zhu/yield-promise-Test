@@ -1,4 +1,7 @@
 # yield-promise-Test
 
-yield和promise一些测试样例
+## promise
+Promise简易版源码
 
+## yield
+yield 一些使用样例
